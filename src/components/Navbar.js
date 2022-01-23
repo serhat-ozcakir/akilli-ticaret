@@ -50,10 +50,10 @@ const Navbar = () => {
           </div>
           <div className="p-1">
             <a href="" className="navbar-brand mx-2">
-              <i class="bi bi-person-circle fs-4"></i>
+              <i class="bi bi-person-circle"></i>
             </a>
             <a href="" className="navbar-brand ">
-              <i class="bi bi-cart-fill fs-4"></i>
+              <i class="bi bi-cart-fill"></i>
             </a>
           </div>
         </div>
