@@ -49,7 +49,7 @@ const Navbar = () => {
             </form>
           </div>
           <div className="p-1">
-            <a href="" className="navbar-brand mx-2">
+            <a href="" className="navbar-brand mx-1 ">
               <i class="bi bi-person-circle"></i>
             </a>
             <a href="" className="navbar-brand ">
