@@ -2,7 +2,7 @@
   "name": "commerce",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://serhat-ozcakir.github.io/akilli-ticaret.git",
+  "homepage": "https://serhat-ozcakir.github.io/akilli-ticaret",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
